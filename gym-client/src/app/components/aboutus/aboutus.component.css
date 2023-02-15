@@ -1,0 +1,18 @@
+.welcome{
+    text-align: center;
+    color: white;
+}
+
+.card{
+    margin: 10px;
+    border: solid red 2px;
+}
+
+.baground{
+    background-color: rgb(9, 9, 9);
+    border: solid red 5px;
+}
+
+.d-block{
+    height: 500px;
+}
